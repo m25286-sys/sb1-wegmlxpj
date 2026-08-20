@@ -204,10 +204,10 @@ const styles = StyleSheet.create({
   guideWrap: {
     alignItems: 'center',
     gap: spacing(1.5),
-    paddingHorizontal: spacing(3),
+    paddingHorizontal: 0,
   },
   guideBox: {
-    width: '85%',
+    width: '100%',
     height: 180,
     borderRadius: radius.lg,
     borderWidth: 2,
