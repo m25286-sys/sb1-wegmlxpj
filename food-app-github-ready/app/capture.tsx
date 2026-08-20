@@ -207,13 +207,13 @@ const styles = StyleSheet.create({
     gap: spacing(1.5),
     paddingHorizontal: 0,
   },
-  guideBox: {
-    width: '100%',
-    height: 180,
-    borderRadius: radius.lg,
-    borderWidth: 2,
-    borderColor: 'rgba(255,255,255,0.85)',
-  },
+ 　guideBox: {
+  　alignSelf: 'stretch',
+  　height: 180,
+  　borderRadius: radius.lg,
+  　borderWidth: 2,
+  　borderColor: 'rgba(255,255,255,0.85)',
+　 },
   guideText: {
     color: colors.neutral[0],
     textAlign: 'center',
