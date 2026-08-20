@@ -209,8 +209,8 @@ const styles = StyleSheet.create({
   },
  　guideBox: {
   　alignSelf: 'stretch',
-    width: '95%',
-  　height: 180,
+    width: '100%',
+  　height: 500,
   　borderRadius: radius.lg,
   　borderWidth: 2,
   　borderColor: 'rgba(255,255,255,0.85)',
