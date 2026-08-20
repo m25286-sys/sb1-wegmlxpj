@@ -202,6 +202,7 @@ const styles = StyleSheet.create({
     justifyContent: 'center',
   },
   guideWrap: {
+    width: '100%',
     alignItems: 'center',
     gap: spacing(1.5),
     paddingHorizontal: 0,
