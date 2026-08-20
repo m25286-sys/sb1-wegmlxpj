@@ -209,6 +209,7 @@ const styles = StyleSheet.create({
   },
  　guideBox: {
   　alignSelf: 'stretch',
+    width: '95%',
   　height: 180,
   　borderRadius: radius.lg,
   　borderWidth: 2,
