@@ -252,7 +252,7 @@ const styles = StyleSheet.create({
   },
   photo: {
     width: '100%',
-    height: 350,
+    height: 450,
     borderRadius: radius.lg,
   },
   ocrBanner: {
